@@ -1,5 +1,7 @@
 # Student Data Scientist
 
+#### Sills: Python, Statistics, Machine Learning, Tableau, Power BI, Data Manipulation, Data Visualization, Communicating Results
+
 ### Educantion
 
 Computer Science Bachelor's degree - Catholic University of Brasilia 2017
