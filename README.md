@@ -1,6 +1,6 @@
 # Student Data Scientist
 
-#### Sills: Python, Statistics, Machine Learning, Tableau, Power BI, Data Manipulation, Data Visualization, Communicating Results
+#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB, Tableau, Communicating Results
 
 ### Educantion
 
